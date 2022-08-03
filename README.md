@@ -1,14 +1,14 @@
 # MT_Science_resources
 
 Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard science.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+
 Suggested [book](https://drive.google.com/file/d/1FAiuecYHT-lyqvQDK-rDcDpbl-xpY9uA/view) to get a glimpse of overall Curiosity rover mechanisms. Try to find the chapter of interest from the book.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+
 [Mars Curiosity Rover Science Instruments](https://mars.nasa.gov/msl/spacecraft/instruments/summary/)
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+
 Some interesting videos: 
 
 * [The Mars Rover On-board Computer](https://www.youtube.com/watch?v=OTys3VzCe7o&list=PL-0xygk-rHdIFXOAgo15SQKx7map9f67-&index=7)
