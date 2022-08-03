@@ -11,7 +11,7 @@ Suggested [book](https://drive.google.com/file/d/1FAiuecYHT-lyqvQDK-rDcDpbl-xpY9
 
 [Mars Curiosity Rover Science Instruments](https://mars.nasa.gov/msl/spacecraft/instruments/summary/)
 
-&nbsp;
+
 
 Some interesting videos: 
 
