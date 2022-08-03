@@ -3,11 +3,15 @@
 Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard science.
 
 
+
 Suggested [book](https://drive.google.com/file/d/1FAiuecYHT-lyqvQDK-rDcDpbl-xpY9uA/view) to get a glimpse of overall Curiosity rover mechanisms. Try to find the chapter of interest from the book.
+
+
 
 
 [Mars Curiosity Rover Science Instruments](https://mars.nasa.gov/msl/spacecraft/instruments/summary/)
 
+&nbsp;
 
 Some interesting videos: 
 
@@ -18,8 +22,7 @@ Some interesting videos:
 * [Mars Curiosity Rover Landing Space 2015](https://www.youtube.com/watch?v=nZqyJfbKfHo&list=PL-0xygk-rHdIFXOAgo15SQKx7map9f67-&index=9)
 
 * [Phoenix Mars Mission: Onto the Ice](https://www.youtube.com/watch?v=vK9fQnsN2uc&list=PL-0xygk-rHdIFXOAgo15SQKx7map9f67-&index=10)
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 Some sciencetific papers that I read from "[msl_sci_team_key_papers]"(https://mars.nasa.gov/files/mep/msl_sci_team_key_papers.pdf). These papers are highly technical. Just have a quick glance:  
 * [The Sample Analysis at Mars Investigation
 and Instrument Suite](https://link.springer.com/content/pdf/10.1007/s11214-012-9879-z.pdf)
