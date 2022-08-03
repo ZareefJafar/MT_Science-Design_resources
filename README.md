@@ -2,15 +2,14 @@
 
 Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard science.
 <p>&nbsp;</p>
-
+<p>&nbsp;</p>
 Suggested [book]((https://drive.google.com/file/d/1FAiuecYHT-lyqvQDK-rDcDpbl-xpY9uA/view).
 ) to get a glimpse of overall rover mechanisms. Try to find the chapter of interest from the book.
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 [Mars Curiosity Rover Science Instruments](https://mars.nasa.gov/msl/spacecraft/instruments/summary/)
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 Some interesting videos: 
 
 * [The Mars Rover On-board Computer](https://www.youtube.com/watch?v=OTys3VzCe7o&list=PL-0xygk-rHdIFXOAgo15SQKx7map9f67-&index=7)
@@ -20,17 +19,11 @@ Some interesting videos:
 * [Mars Curiosity Rover Landing Space 2015](https://www.youtube.com/watch?v=nZqyJfbKfHo&list=PL-0xygk-rHdIFXOAgo15SQKx7map9f67-&index=9)
 
 * [Phoenix Mars Mission: Onto the Ice](https://www.youtube.com/watch?v=vK9fQnsN2uc&list=PL-0xygk-rHdIFXOAgo15SQKx7map9f67-&index=10)
-
-
-
-
-
-
-List of all the [papers](https://mars.nasa.gov/files/mep/msl_sci_team_key_papers.pdf) by MSL(Mars Science Laboratory - Curiosity Rover): 
-
-Some sciencetific papers that I read from "msl_sci_team_key_papers"(These papers are highly technical. Just have a quick glance):  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+Some sciencetific papers that I read from "[msl_sci_team_key_papers]"(https://mars.nasa.gov/files/mep/msl_sci_team_key_papers.pdf). These papers are highly technical. Just have a quick glance:  
 * [The Sample Analysis at Mars Investigation
-and Instrument Suite] (https://link.springer.com/content/pdf/10.1007/s11214-012-9879-z.pdf)
+and Instrument Suite](https://link.springer.com/content/pdf/10.1007/s11214-012-9879-z.pdf)
 
 * [Mitigation of the Impact of Terrestrial Contamination on
 Organic Measurements from the Mars Science Laboratory](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=db8fd211e7&attid=0.3&permmsgid=msg-a:r8729659509825045682&th=17528bdcc9e1ab56&view=att&disp=inline&realattid=f_kg9t9sjd2&saddbat=ANGjdJ8olvUs3d-MmVP1wTyAyWeDI8ZWQiTo4eJjNojZRzO1UQsoeHlZnfVBQ0e5dPMW4BHuJgm9MybUGcPUhORzc5L7EvtKb8i-bUPgZcmumSmlxNSmRMU3I_XQxRi-vfNL9a6nzqL091AY8c-3wQFb5t2_xG8tQDmzjx8kY6nCLitxTVqBWoN0mp6TTnRbbF8yaWFnyhMrsvix95If2ZfJqf9zxU16llX6_CHLSWHijxmcD3jsHNOsYf634zQxL1_WWm444z1bW0EJc72GZy694Egjlpj_JGhdRmACG-6i9_arUxqM8G1aEct8Ob8fKRlzFbxbT4hXJQkhx6nNjUdVNX-Q2ESmZ-VqLvSWKMp_i5mhrpRn5s33iE45pH27K43wZmmjq4K-9AydiPmDZghiOnYczXnrnJoLfkFPONOX0vkRDtAgthhI6En1MczLmXQcwy2lDLn5CsscQfudzftsats7NnhJCvwihzOZk9BmWTa0D04A55nhqBnBsQK1U06g7oqQkgcnGgadci7k3x61lm52UIbL0Z_O6jerRG89wnHzyjXbhh2nGmMBIdEVL9Gj-PW9qes9DQwo6LHTceBx2LdABboGseo26gyUkJZNatL6CpBucohf3Qj1J3S7t9oF5z8WUBi0pm5saQiOE0TXgEkGK2OYVAxqXrdestFtQ2GNH_zAbBd8vOzynvWEH3ZRZMBbok_UMfJbNnvHYlUH-vRKUWsyaXh3O-SIGHyoPXqioZal5-EYrXcw3J6mMkMUWTWZk1OMCrbGHcbagrch47By35ToEyKnTbGRQQ)
