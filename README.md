@@ -1,11 +1,7 @@
 # MT_Science_resources
 
 
-Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard science. 
-
-
-
-
+Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard science.\
 Suggested [book]((https://drive.google.com/file/d/1FAiuecYHT-lyqvQDK-rDcDpbl-xpY9uA/view).
 ) to get a glimpse of overall rover mechanisms. Try to find the chapter of interest from the book.
 
