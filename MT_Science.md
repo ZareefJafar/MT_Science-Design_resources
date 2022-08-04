@@ -17,7 +17,7 @@ Some sample questions for science team from The University Rover Challenge (URC)
 
 
 
-# Science_resources
+# Science_reading_resources
 
 Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard science.
 
