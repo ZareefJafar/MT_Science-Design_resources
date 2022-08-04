@@ -1,17 +1,17 @@
 # MT_Science_resources
-Some sample questions for science team from The University Rover Challenge (URC) 2019:/
-1. Why was Jezero Crater selected as the Mars2020 landing site?/
-2. What significance did the Phoenix Lander have on the Viking Lander(s) results?/
-3. Which instruments or methods would be chosen for an ideal life-detection suite for Mars and which place on Mars would you want to land? (given no limitation in funding, landing sites, or data rate back to Earth)./
-4. What are the known survival limits for halophiles?/
-5. Name one way meteorites influence the field of astrobiology?/
-6. Is a microbial spore alive?/
-7. What is the difference between habitability investigations and life detection investigations?/
-8. Provide an example of each and describe the difference between extant and extinct life?/
-9. How many planets / planetary bodies are known to harbor life?/ 
-10. Has life been found on Mars?/
+Some sample questions for science team from The University Rover Challenge (URC) 2019:
+1. Why was Jezero Crater selected as the Mars2020 landing site?
+2. What significance did the Phoenix Lander have on the Viking Lander(s) results?
+3. Which instruments or methods would be chosen for an ideal life-detection suite for Mars and which place on Mars would you want to land? (given no limitation in funding, landing sites, or data rate back to Earth).
+4. What are the known survival limits for halophiles?
+5. Name one way meteorites influence the field of astrobiology?
+6. Is a microbial spore alive?
+7. What is the difference between habitability investigations and life detection investigations?
+8. Provide an example of each and describe the difference between extant and extinct life?
+9. How many planets / planetary bodies are known to harbor life?
+10. Has life been found on Mars?
 
-
+***MT19 SCIENCE EXPERIMENT UNIT diagram***
 ![MT19 SCIENCE EXPERIMENT UNIT diagram](https://user-images.githubusercontent.com/49613484/182920639-0b5e2feb-a9a3-4d0a-b6e2-67e7d6959004.png)
 
 
