@@ -16,6 +16,8 @@ Some sample questions for science team from The University Rover Challenge (URC)
 ![MT19 SCIENCE EXPERIMENT UNIT diagram](https://user-images.githubusercontent.com/49613484/182920639-0b5e2feb-a9a3-4d0a-b6e2-67e7d6959004.png)
 
 
+# Mongol-Tori-19 Soil distributor mechanism for Science experiment: 
+[MT19_soil_distributor](https://grabcad.com/library/mongol-tori-19-soil-distributor-mechanism-for-science-experiment-1)
 
 # Some proposed devices for next gen MT science (never purchased and implemented)
 [SparkFun Triad Spectroscopy Sensor - AS7265x (Qwiic)](https://www.sparkfun.com/products/15050) 
