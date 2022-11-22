@@ -1,3 +1,4 @@
+<Zareef jafar & K M Fahim Mahmud>
 # MT_Science_resources
 Some sample questions for science team from The University Rover Challenge (URC) 2019:
 1. Why was Jezero Crater selected as the Mars2020 landing site?
@@ -15,6 +16,11 @@ Some sample questions for science team from The University Rover Challenge (URC)
 ![MT19 SCIENCE EXPERIMENT UNIT diagram](https://user-images.githubusercontent.com/49613484/182920639-0b5e2feb-a9a3-4d0a-b6e2-67e7d6959004.png)
 
 
+
+# Some proposed devices for next gen MT science (never purchased and implemented)
+[SparkFun Triad Spectroscopy Sensor - AS7265x (Qwiic)](https://www.sparkfun.com/products/15050) 
+
+Raman Spectroscopy 
 
 
 # Science_reading_resources
