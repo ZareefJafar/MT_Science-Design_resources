@@ -1,4 +1,4 @@
-<Zareef jafar & K M Fahim Mahmud>
+<K M Fahim Mahmud & Zareef jafar>
 # MT_Science_resources
 Some sample questions for science team from The University Rover Challenge (URC) 2019:
 1. Why was Jezero Crater selected as the Mars2020 landing site?
