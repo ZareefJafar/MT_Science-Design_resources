@@ -31,7 +31,7 @@ Go through all the SAR videos of URC rover teams (2019 to 2021) for onboard scie
 
 Identifying types of rock is essential for a science team in URC.[Rocks: Igneous, Metamorphic and Sedimentary](https://geology.com/rocks/)
 
-Suggested [book](https://drive.google.com/file/d/1FAiuecYHT-lyqvQDK-rDcDpbl-xpY9uA/view) to get a glimpse of overall Curiosity rover mechanisms. Try to find the chapter of interest from the book.
+Suggested [book](https://link.springer.com/book/10.1007/978-3-319-68146-7) to get a glimpse of overall Curiosity rover mechanisms. Try to find the chapter of interest from the book.
 
 
 
